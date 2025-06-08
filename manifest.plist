@@ -16,13 +16,13 @@
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://gitee.com/goodone8/wao/raw/master/AppIcon571.png</string>
+                        <string>Https://raw.githubusercontent.com/q573172666/who/main/AppIcon571.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://gitee.com/goodone8/wao/raw/master/AppIcon512.png</string>
+                        <string>Https://raw.githubusercontent.com/q573172666/who/main/AppIcon512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
